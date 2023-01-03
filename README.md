@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @apu_csd
-- 👀 I’m interested in programming in C
+- 👋 Hi, I’m @Apu Sutra Dhar
   🌱 I’m currently learning Html
   🌱 I’m currently learning css
-- 🌱 I’m currently learning c programing
-  🌱 I’m currently learning python programing
   🌱 I’m currently learning javaSript programing
 
 - 💞️ I’m looking to collaborate on ...
