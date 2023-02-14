@@ -2,8 +2,6 @@
   🌱 I’m currently learning Html
   🌱 I’m currently learning css
   🌱 I’m currently learning javaSript programing
-
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...apusutradhar77@gmail.com 
 
 
