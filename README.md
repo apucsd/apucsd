@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
+  <img height="300" src="https://i.ibb.co/vs4fgXZ/Apu-Sutra-Dhar.png"  />
 </div>
 
 ###
@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Apu Sutra Dhar from Dhaka, Bangladesh<br><br>- 🔭 I’m working as MERN stack developer<br>- 📚 I'm currently learning Nextjs<br>- ⚡ In my free time I like to play or watch cricket<br>- 👨‍💻 All of my projects are available at https://apusutradhar.web.app/<br>-💬 Ask me about Frontend development , MERN stack development<br>-📫 How to reach me apusutradhar77@gmail.com<br>-📄 My resume drive link: <br> <br>https://drive.google.com/file/d/1uBXQHYyaWw46zG4cifRBK30e3rpfceXf/view?usp=sharing</p>
+<p align="left">I'm Apu Sutra Dhar from Dhaka, Bangladesh<br><br>- 🔭 I’m working as Full stack developer<br>- 📚 I'm currently learning Nextjs<br>- ⚡ In my free time I like to play or watch cricket<br>- 👨‍💻 All of my projects are available at https://apusutradhar.web.app/<br>-💬 Ask me about Frontend development , MERN stack development<br>-📫 How to reach me apusutradhar77@gmail.com<br>-📄 My resume drive link: <br> <br>https://drive.google.com/file/d/1uBXQHYyaWw46zG4cifRBK30e3rpfceXf/view?usp=sharing</p>
 
 ###
 
