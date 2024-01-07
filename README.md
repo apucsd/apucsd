@@ -70,4 +70,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apucsd&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>  
+
+<br/>  
+
 ###
+
