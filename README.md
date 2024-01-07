@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="280" src="https://i.ibb.co/vs4fgXZ/Apu-Sutra-Dhar.png"  />
+  <img height="100%" src="https://i.ibb.co/vs4fgXZ/Apu-Sutra-Dhar.png"  />
 </div>
 
 ###
