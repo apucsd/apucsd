@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co/vs4fgXZ/Apu-Sutra-Dhar.png"  />
+  <img height="280" src="https://i.ibb.co/vs4fgXZ/Apu-Sutra-Dhar.png"  />
 </div>
 
 ###
@@ -77,7 +77,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apucsd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+<div align="center">
+
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=apucsd)  
+</div>
+
 
 ###
 
