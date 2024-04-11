@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Apu Sutra Dhar from Dhaka, Bangladesh<br><br>- 🔭 I’m working as Full stack developer<br>- 📚 I'm currently learning Nextjs<br>- ⚡ In my free time I like to play or watch cricket<br>- 👨‍💻 All of my projects are available at https://apusutradhar.web.app/<br>-💬 Ask me about Frontend development, MERN stack development<br>-📫 How to reach me apusutradhar77@gmail.com<br>-📄 My resume drive link: <br> <br>https://drive.google.com/file/d/1uBXQHYyaWw46zG4cifRBK30e3rpfceXf/view?usp=sharing</p>
+<p align="left">I'm Apu Sutra Dhar from Dhaka, Bangladesh<br><br>- 🔭 I’m working as Full stack developer<br>- 📚 I'm currently learning Nextjs<br>- ⚡ In my free time I like to play or watch cricket<br>- 👨‍💻 All of my projects are available at https://apusutradhar.web.app/<br>-💬 Ask me about Frontend development, MERN stack development<br>-📫 How to reach me apusutradhar77@gmail.com<br>-📄 My resume drive link: <br> <br>https://drive.google.com/file/d/1TtQNGIrjbTV_W7_yJprJccGqIklSpLtZ/view?usp=drive_link</p>
 <div align="center">
 
 ## 💡 A Quote:
