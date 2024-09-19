@@ -69,27 +69,27 @@
 </p>
 
 ## 🚀 Current stats
-
-<table align="center">
+<table align="center" style="width: 100%; padding: 0;">
   <tr>
     <td>
       <a href="https://github.com/apucsd/github-readme-streak-stats" title="Go to Source">
-        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=apucsd&theme=react&border=61dafb&hide_border=true" alt="apucsd" />
+        <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=apucsd&theme=react&border=61dafb&hide_border=true" alt="apucsd" />
       </a>
     </td>
     <td>
       <a href="#" title="Go to Source">
-        <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=apucsd&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=apucsd&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
       </a>
     </td>
   </tr>
 </table>
 
-<div align="center">
+<div align="center" style="width: 100%; padding: 0;">
   <a href="https://apusutradhar.web.app">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=apucsd&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=apucsd&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" style="width: 100%;" />
   </a>
 </div>
+
 
 
 
