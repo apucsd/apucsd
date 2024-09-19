@@ -95,16 +95,22 @@
 
 ###
 
-## 🏆 My Stats:
+## 🚀 Current stats
 
-<p align="center">
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=apucsd&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apucsd&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apucsd&theme=dark" alt="GitHub Streak" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/apucsd/github-readme-streak-stats" title="Go to Source">
+        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=apucsd&theme=react&border=61dafb&hide_border=true" alt="siffahim" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/siffahim/github-readme-stats" title="Go to Source">
+        <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=apucsd&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://apusutradhar.web.app">
