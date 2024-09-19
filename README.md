@@ -74,11 +74,11 @@
   <tr>
     <td>
       <a href="https://github.com/apucsd/github-readme-streak-stats" title="Go to Source">
-        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=apucsd&theme=react&border=61dafb&hide_border=true" alt="siffahim" />
+        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=apucsd&theme=react&border=61dafb&hide_border=true" alt="apucsd" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/siffahim/github-readme-stats" title="Go to Source">
+      <a href="#" title="Go to Source">
         <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=apucsd&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
       </a>
     </td>
