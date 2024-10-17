@@ -84,11 +84,7 @@
   </tr>
 </table>
 
-<div align="center" style="width: 100%; padding: 0;">
-  <a href="https://apusutradhar.web.app">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=apucsd&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" style="width: 100%;" />
-  </a>
-</div>
+
 
 
 
