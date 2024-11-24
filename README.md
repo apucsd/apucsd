@@ -68,7 +68,7 @@
         <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 </p>
 
-## 🚀 Current stat-s
+## 🚀 Current stats
 <table align="center" style="width: 100%; padding: 0;">
   <tr>
     <td>
