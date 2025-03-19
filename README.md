@@ -68,25 +68,22 @@
         <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 </p>
 
-## 🚀 Current stats
-<table align="center" style="width: 100%; padding: 0;">
+## 📊 GitHub Stats  
+
+<div style="background-color: #0D1117; padding: 10px; border-radius: 10px;">
+
+<table>
   <tr>
-    <td>
-      <a href="https://github.com/apucsd/github-readme-streak-stats" title="Go to Source">
-        <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=apucsd&theme=react&border=61dafb&hide_border=true" alt="apucsd" />
-      </a>
-    </td>
-    <td>
-      <a href="#" title="Go to Source">
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=apucsd&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-      </a>
-    </td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=apucsd&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=apucsd&theme=dark&hide_border=false" height="150"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apucsd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/></td>
   </tr>
 </table>
 
+</div>
 
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=apucsd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ###
