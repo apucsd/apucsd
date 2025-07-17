@@ -2,21 +2,33 @@
   <img height="100%" src="https://i.ibb.co/NFydjFk/Linked-In-Banner.png"  />
 </div>
 
-###
+
+#
+
+<h2 align="center">Hi, I'm Apu Sutra Dhar 👋</h2>
+
+<p align="center">
+  💻 Software Developer from Bangladesh 🇧🇩<br/>
+  🏢 Currently at <b>AmarSolution</b><br/>
+  🔁 1+ year at <b>SparkTech Agency</b> (bdCalling)<br/>
+  🚀 I build scalable web apps with modern tools like React, Node, and Next.js
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/apusutradhar77/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://www.facebook.com/apusutradhar.1710/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://medium.com/@apusutradhar77" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
-####
+<br/>
+
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=apucsd.apucsd&"  />
