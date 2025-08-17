@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100%" src="https://i.ibb.co/NFydjFk/Linked-In-Banner.png"  />
+  <img width="1584" height="396" alt="Black and White Illustrative Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/7ca87012-eea9-4fef-8848-f088dab90780" />
 </div>
 
 
