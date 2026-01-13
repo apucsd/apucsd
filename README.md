@@ -97,9 +97,9 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=apucsd&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/></td>
+    <!-- <td><img src="https://github-readme-stats.vercel.app/api?username=apucsd&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/></td> -->
     <td><img src="https://nirzak-streak-stats.vercel.app/?user=apucsd&theme=dark&hide_border=false" height="150"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apucsd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/></td>
+    <!-- <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apucsd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/></td> -->
   </tr>
 </table>
 
