@@ -78,6 +78,7 @@
         <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
         <a href="#"><img alt="PM2" src="https://img.shields.io/badge/PM2-2B037A.svg?logo=pm2&logoColor=white"></a>
         <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=white"></a>
+        <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?logo=microsoftazure&logoColor=white"></a>
         <a href="#"><img alt="VPS Hosting" src="https://img.shields.io/badge/VPS%20Hosting-1A73E8.svg?logo=cloudflare&logoColor=white"></a>
 </p>
 
