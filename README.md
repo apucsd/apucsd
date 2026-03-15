@@ -8,9 +8,9 @@
 <h2 align="center">Hi, I'm Apu Sutra Dhar 👋</h2>
 
 <p align="center">
-  💻 Software Developer from Bangladesh 🇧🇩<br/>
-  🏢 Currently at <b>AmarSolution</b><br/>
-  🔁 1+ year at <b>SparkTech Agency</b> (bdCalling)<br/>
+  💻 Backend Developer from Bangladesh 🇧🇩<br/>
+  🏢 Currently at <b>SM Technology (Betopia)</b><br/>
+  🔁 1+ year at <b>SparkTech Agency</b> (Betopia)<br/>
   🚀 I build scalable web apps with modern tools like React, Node, and Next.js
 </p>
 
