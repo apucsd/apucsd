@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1584" height="396" alt="Black and White Illustrative Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/7ca87012-eea9-4fef-8848-f088dab90780" />
+  <img width="1584" height="650" alt="Black and White Illustrative Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/8a9ca496-5c44-43ab-b1ad-d00da247bc7b" />
 </div>
 
 
