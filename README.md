@@ -52,7 +52,7 @@
         <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white"></a>
         <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
         <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white"></a>
-        <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB.svg?logo=react&logoColor=white"></a>
+        <!-- <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB.svg?logo=react&logoColor=white"></a> -->
         <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-0C344B.svg?logo=prisma&logoColor=white"></a>
 </p>
 
@@ -66,11 +66,10 @@
 ### Cloud Hosting
 
 <p>
-        <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
-        <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-        <a href="#"><img alt="Railway" src="https://img.shields.io/badge/Railway-FF6D00.svg?logo=railway&logoColor=white"></a>
-        <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-        <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+    <a href="#"><img alt="Railway" src="https://img.shields.io/badge/Railway-FF6D00.svg?logo=railway&logoColor=white"></a>
+    <a href="#"><img alt="Azure App Service" src="https://img.shields.io/badge/Azure%20App%20Service-0078D4.svg?logo=microsoftazure&logoColor=white"></a>
+    <a href="#"><img alt="VPS" src="https://img.shields.io/badge/VPS-4EAA25.svg?logo=linux&logoColor=white"></a>
 </p>
 
 ### DevOps / Deployment
